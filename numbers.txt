@@ -7,7 +7,3 @@
 7
 8
 9
-some
-word
-are
-added
